@@ -2,9 +2,9 @@
 )
 
 <h1 align="center">Hi 👋, I'm Anika Gupta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" height= "200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFiaGs2azJtNHgxNmZrNWxweDA3b2ZqcWo0MjF3cHBxMDF4YmZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
+<img align="right" alt="Coding" width="300" height= "180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFiaGs2azJtNHgxNmZrNWxweDA3b2ZqcWo0MjF3cHBxMDF4YmZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
 
 
 - 🔭 I’m currently working on **Ecommerse website**
