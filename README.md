@@ -5,9 +5,11 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&locale=en&layout=compact" alt="anikaguptas" />
 
-- 🔭 I’m currently working on **Ecommerse website**
+- 🔭 Working on **Ecommerse website**
 
 - 🌱 I’m currently learning **React-Native**
+
+- ✨ Eager about design and 3D animation.
 
 - 💬 Ask me about **MERN**
 
