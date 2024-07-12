@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Anika Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFiaGs2azJtNHgxNmZrNWxweDA3b2ZqcWo0MjF3cHBxMDF4YmZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
+<img align="right" alt="Coding" width="400" height= "200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFiaGs2azJtNHgxNmZrNWxweDA3b2ZqcWo0MjF3cHBxMDF4YmZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
 
 
 - 🔭 I’m currently working on **Ecommerse website**
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anikaguptaindia@gmail.com**
 
-- ⚡ Fun fact **404 Not Found:If you ever need me and can’t find me, I’m probably lost in the documentation**
+- ⚡ **404 Not Found:If you ever need me and can’t find me, I’m probably lost in the documentation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
