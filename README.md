@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg
 )
 
-<h1 align="center">Hi 👋, I'm Anika Gupta</h1>
+<h1 align="center"> Anika Gupta</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&locale=en&layout=compact" alt="anikaguptas" />
 
