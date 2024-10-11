@@ -7,7 +7,7 @@
 
 - 🔭 Working on **Ecommerse website**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **THREE js**
 
 - ✨ Eager about design and 3D animation.
 
