@@ -5,13 +5,13 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&locale=en&layout=compact" alt="anikaguptas" />
 
-- 🔭 Working on **Ecommerse website**
+- 🔭 Working on **Improving SECURITY FOR ALL**
 
-- 🌱 I’m currently learning **THREE js**
+- 🌱 I like doing **THREE js**
 
 - ✨ Eager about design and 3D animation.
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **CYBER SECURITY**
 
 - 📫 How to reach me **anikaguptaindia@gmail.com**
 
