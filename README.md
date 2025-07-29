@@ -7,13 +7,9 @@
 
 - 🔭 Working on **Improving SECURITY FOR ALL**
 
-- 🌱 I like doing **THREE js**
+- ✨ Integrating development and cyber security
 
-- ✨ Eager about design and 3D animation.
-
-- 💬 Ask me about **CYBER SECURITY**
-
-- 📫 How to reach me **anikaguptaindia@gmail.com**
+- 📫 Reach me **anikaguptaindia@gmail.com**
 
 - ⚡ **404 Not Found:If you ever need me and can’t find me, I’m probably lost in the documentation**
 
