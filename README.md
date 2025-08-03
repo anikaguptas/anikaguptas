@@ -3,17 +3,14 @@
 
 <h1 align="center"> Anika Gupta</h1>
 <h4 align="center">Security Analyst and Developer</h3>
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anikaguptas" />
 
-- Developing tools and platforms that blend development with cybersecurity. 
-- My projects aim to solve real world security challenges
-- Full stack teck: Node.js, Express, EJS and MongoDB.
-- Ask me about Full-Stack Development & Cyber Security
-- I love exploring 3D animations, Three.js, Blender
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anika-gupta-2815681b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika-gupta-2815681b0" height="30" width="40" /></a>
-</p>
+Passionate about developing tools and platforms that blend development with cybersecurity, aiming to solve real-world security challenges. I work with a full-stack tech stack including Node.js, Express, EJS, and MongoDB. Ask me anything about Full-Stack Development or Cybersecurity—I’m always up for a discussion! I also love exploring 3D animations using Three.js and Blender.
+
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anikaguptas" />
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/anikaguptas?ext=heatmap)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
