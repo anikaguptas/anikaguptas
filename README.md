@@ -6,7 +6,7 @@
 
 Passionate about developing tools and platforms that blend development with cybersecurity, aiming to solve real-world security challenges. I work with a full-stack tech stack including Node.js, Express, EJS, and MongoDB. Ask me anything about Full-Stack Development or Cybersecurity—I’m always up for a discussion! I also love exploring 3D animations using Three.js and Blender.
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anikaguptas" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anikaguptas" />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anikaguptas?ext=heatmap)
 
