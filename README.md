@@ -4,7 +4,7 @@
 <h1 align="center"> Anika Gupta</h1>
 <h4 align="center">Security Analyst and Developer</h3>
 
-Passionate about developing tools and platforms that blend development with cybersecurity, aiming to solve real-world security challenges. I work with a full-stack tech stack including Node.js, Express, EJS, and MongoDB. Ask me anything about Full-Stack Development or Cybersecurity—I’m always up for a discussion! I also love exploring 3D animations using Three.js and Blender.
+Passionate about developing tools and platforms that blend development with cybersecurity, aiming to solve real-world security challenges. I work with a full-stack tech stack including Node.js, Express, EJS and MongoDB. I’m always up for a discussion! I also love exploring 3D animations using Three.js and Blender.
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anikaguptas" />
 
