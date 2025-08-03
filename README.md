@@ -5,10 +5,11 @@
 <h4 align="center">Security Analyst and Developer</h3>
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&locale=en&layout=compact" alt="anikaguptas" />
 
-- Strong foundation in **full stack development** and **cybersecurity**.
-- I build secure web applications using Node.js, Express, EJS and MongoDB.
-- My projects aim to solve real world security challenges by developing tools and platforms that blend development with cybersecurity. 
-
+- Developing tools and platforms that blend development with cybersecurity. 
+- My projects aim to solve real world security challenges
+- Full stack teck: Node.js, Express, EJS and MongoDB.
+- Ask me about Full-Stack Development & Cyber Security
+- I love exploring 3D animations, Three.js, Blender
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anika-gupta-2815681b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika-gupta-2815681b0" height="30" width="40" /></a>
