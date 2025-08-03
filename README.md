@@ -5,9 +5,9 @@
 <h4 align="center">Security Analyst and Developer</h3>
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaguptas&show_icons=true&locale=en&layout=compact" alt="anikaguptas" />
 
-
-I'm a Computer Science student with a strong foundation in **full stack development** and **cybersecurity**. I build secure web applications using Node.js, Express, EJS and MongoDB. My projects aim to solve real world security challenges by developing tools and platforms that blend development with cybersecurity. 
-My creative side enjoys exploring Blender and Three.js to experiment with immersive web experiences.
+- Strong foundation in **full stack development** and **cybersecurity**.
+- I build secure web applications using Node.js, Express, EJS and MongoDB.
+- My projects aim to solve real world security challenges by developing tools and platforms that blend development with cybersecurity. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
